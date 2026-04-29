@@ -18,28 +18,7 @@ Backend Software Engineer and Development Team Lead with 3+ years of experience 
 
 ---
 
-### 💼 Professional Experience
 
-**Development Team Lead** — *Inditech Data Insight Pvt Ltd*  
-📅 *Aug 2024 – Present* | 📍 Kochi, Kerala  
-
-- Architected and delivered scalable backend services in C# (.NET Core / ASP.NET Core) for a high-volume retail transaction platform processing data from multiple POS systems in real time.
-- Designed and integrated RESTful APIs for real-time sales data ingestion, enabling seamless synchronization across distributed retail endpoints.
-- Built end-to-end ETL pipelines for financial dataset validation, transformation, and reconciliation, reducing manual intervention in data workflows.
-- Optimized SQL Server queries, indexes, and stored procedures, achieving 25–30% improvement in query execution time on high-frequency transaction tables.
-- Implemented asynchronous programming patterns (async/await, Task Parallel Library) that improved system throughput and reduced latency under peak load.
-- Established production-grade logging, structured exception handling, and debugging frameworks, improving incident resolution time.
-- Led a 4+ member development team, conducting code reviews, enforcing Git branching workflows, and maintaining code quality standards.
-- Partnered with stakeholders to diagnose and resolve production incidents, including API failures and data reconciliation discrepancies.
-
-**Android Development Trainer** — *ATEES Industrial Training Pvt Ltd*  
-📅 *Dec 2019 – Mar 2021* | 📍 Thrissur, Kerala  
-
-- Delivered instructor-led training on Android application development (Java) and Firebase integration to 30+ students per cohort.
-- Developed hands-on demo applications featuring REST API integration, data handling, and role-based UI flows.
-- Mentored students on mobile architecture patterns (MVC/MVP) and Material Design UI principles.
-
----
 
 ### 🧠 Projects
 
