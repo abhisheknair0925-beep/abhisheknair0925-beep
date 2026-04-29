@@ -43,26 +43,25 @@ Backend Software Engineer and Development Team Lead with 3+ years of experience 
 
 ### 🧠 Projects
 
-- **🧾 Automatic Revenue Sharing System (E-Goal)** *(C#, .NET Core, SQL Server, REST APIs)*
-  - Engineered automated backend revenue processing engine for a multi-store retail chain, replacing manual reconciliation workflows.
-  - Integrated multiple third-party REST APIs to enable real-time synchronization of sales transactions and payment records.
-  - Designed and implemented data validation, transformation, and reconciliation pipelines handling thousands of daily financial records.
-  - Tuned SQL Server performance via indexing strategies and query optimization, supporting production-scale data volumes.
-
-- **📱 Expense Manager Tracker** *(Flutter, Dart, SQLite, Firebase)*
-  - Built a cross-platform mobile expense tracking app (iOS & Android) with analytics dashboard, offline-first architecture, and cloud sync.
-  - Implemented Provider-based state management and modular architecture to ensure maintainability and testability.
-  - Integrated Firebase Authentication for secure login and Firestore for real-time cloud data synchronization.
-
-- **📱 E-Goal V2 Android Application** *(Java, Retrofit, Material UI)*
-  - Developed production Android client integrating REST APIs for real-time retail reporting and analytics.
-  - Implemented role-based access control, response caching, and offline sync to support low-connectivity environments.
-
-- **🔐 Secure Online Banking System** *(Java, Spring Boot)*
-  - Built secure banking backend with Spring Boot, implementing JWT-based authentication, input validation, and AES data encryption.
-
-- **🎟️ Token Management System (TMS)** *(PHP, MySQL, Android)*
-  - Designed and deployed a client-server hospital queue management system, reducing patient wait time through digital token allocation.
+| Project | Tools & Technologies |
+| :--- | :--- |
+| **🧾 Automatic Revenue Sharing System (E-Goal)** | C#, .NET Core, SQL Server, REST APIs |
+| **📱 Expense Manager Tracker** | Flutter, Dart, SQLite, Firebase |
+| **📱 E-Goal V2 Android Application** | Java, Retrofit, Material UI |
+| **🔐 Secure Online Banking System** | Java, Spring Boot |
+| **🎟️ Token Management System (TMS)** | PHP, MySQL, Android |
+| **📂 AbhishekPortfolio** | HTML, CSS, JavaScript, PHP |
+| **📂 BankApplication** | HTML, CSS, JavaScript |
+| **📂 BugTrackingProjectUsingSpringBoot** | Java, Spring Boot |
+| **📂 CaesarCipher Text Encryption** | Java |
+| **📂 FormValidation** | HTML, CSS, JavaScript |
+| **📂 LIBRARY E-GATE** | HTML, CSS, PHP |
+| **📂 Library Android** | Java, Android |
+| **📂 MalluScanner** | Python |
+| **📂 Pass-Gen** | Shell |
+| **📂 StoreSales** | HTML, CSS, JavaScript, Java, Spring Boot |
+| **📂 TechWise Innovations** | HTML, CSS, JavaScript |
+| **📂 Techwise** | HTML, CSS, JavaScript, PHP |
 
 ---
 
