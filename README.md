@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek A Nair</h1>
-<h3 align="center">🚀 Ethical Hacker | 💻 Java & Android Developer | ☁️ Tech Enthusiast from India</h3>
+<h3 align="center">🚀 Software Engineer | 💻 Backend Systems | ☁️ Team Lead</h3>
 
 <img align="right" alt="Coding" width="400" height="400" src="https://github.com/abhisheknair0925-beep/abhishek_a_nair/blob/main/IMG1.jpg">
 
@@ -9,63 +9,99 @@
 
 ---
 
-### 🧩 About Me
+### 🧩 Professional Summary
 
-- 🔭 I’m currently working at **Inditech Data Insights Pvt Ltd**
-- ⚙️ Implementing **Automatic Revenue Sharing Solution (E-Goal)** across stores in Malls and Airports
-- 📱 Currently developing **EGoal utilities for stores in Malls and Airports, EGoal V2 Android App** using **.NET, MySQL and Android Studio**
-- 💬 Ask me about **Cyber Security, Java, Android Development, SQL, and API Integrations**
-- 🌱 I’m currently learning **Flutter & Advanced Java Backend Development**
-- 👯 I’m open to collaborating on **Security or Enterprise Automation Projects**
+Backend Software Engineer and Development Team Lead with 3+ years of experience designing and shipping production-grade systems in C# (.NET Core) and Java Spring Boot. Delivered a high-volume retail transaction platform handling real-time POS ingestion for multiple store chains, achieving 25–30% SQL query performance improvements. Proven track record in RESTful API design, ETL pipeline development, asynchronous programming, and cross-functional team leadership.
+
 - 📫 Reach me at **abhisheknair0925@gmail.com**
+- 🔗 LinkedIn: **[abhishekanair1289198](https://linkedin.com/in/abhishekanair1289198)**
 
 ---
 
 ### 💼 Professional Experience
 
-**Development Team Lead** — *Inditech Data Insights Pvt Ltd*  
-📅 *Aug 2024 – Present* | 📍 Kochi, India  
+**Development Team Lead** — *Inditech Data Insight Pvt Ltd*  
+📅 *Aug 2024 – Present* | 📍 Kochi, Kerala  
 
-- Designed and implemented **E-Goal**, an *Automatic Revenue Sharing Solution* integrating multi-store retail data using **C#, SQL Server, and REST APIs**.  
-- Created **data processing utilities** for sales and return reconciliation, ensuring accuracy and compliance.  
-- Developed **E-Goal V2 Android App** with **secure login, API integration, and data visualization features** using **MVVM architecture**.  
-- Collaborated with clients and IT teams for deployment, auditing, and performance optimization.  
+- Architected and delivered scalable backend services in C# (.NET Core / ASP.NET Core) for a high-volume retail transaction platform processing data from multiple POS systems in real time.
+- Designed and integrated RESTful APIs for real-time sales data ingestion, enabling seamless synchronization across distributed retail endpoints.
+- Built end-to-end ETL pipelines for financial dataset validation, transformation, and reconciliation, reducing manual intervention in data workflows.
+- Optimized SQL Server queries, indexes, and stored procedures, achieving 25–30% improvement in query execution time on high-frequency transaction tables.
+- Implemented asynchronous programming patterns (async/await, Task Parallel Library) that improved system throughput and reduced latency under peak load.
+- Established production-grade logging, structured exception handling, and debugging frameworks, improving incident resolution time.
+- Led a 4+ member development team, conducting code reviews, enforcing Git branching workflows, and maintaining code quality standards.
+- Partnered with stakeholders to diagnose and resolve production incidents, including API failures and data reconciliation discrepancies.
 
-**Junior Software Associate Intern** — *Eduzell Technologies and Solutions LLP*  
-📅 *Sep 2023 – Jul 2024* | 📍 Kochi, India  
+**Android Development Trainer** — *ATEES Industrial Training Pvt Ltd*  
+📅 *Dec 2019 – Mar 2021* | 📍 Thrissur, Kerala  
 
-- Contributed to backend module development using Java Spring Boot.  
-- Executed SQL queries for data analysis and report generation  
-- Assisted in troubleshooting, debugging, and feature enhancement tasks  
+- Delivered instructor-led training on Android application development (Java) and Firebase integration to 30+ students per cohort.
+- Developed hands-on demo applications featuring REST API integration, data handling, and role-based UI flows.
+- Mentored students on mobile architecture patterns (MVC/MVP) and Material Design UI principles.
 
 ---
 
 ### 🧠 Projects
 
-- **🧾 E-Goal (Automatic Revenue Sharing System)** – Backend solution automating sales data collection, verification, and sharing for CIAL stores using **C#, SQL Server, and API integrations**.  
-- **📱 E-Goal V2 Android App** – Android app version of E-Goal built using **Kotlin, Android Studio, and Retrofit**, featuring real-time data sync and analytics dashboard.  
-- **🔐 Secure Online Banking System** – A cyber-secure banking prototype with multi-level authentication.  
-- **💻 Store Sales Auditor** – Utility for reconciling store-level sales and returns, integrated with REST APIs and SQL.  
+- **🧾 Automatic Revenue Sharing System (E-Goal)** *(C#, .NET Core, SQL Server, REST APIs)*
+  - Engineered automated backend revenue processing engine for a multi-store retail chain, replacing manual reconciliation workflows.
+  - Integrated multiple third-party REST APIs to enable real-time synchronization of sales transactions and payment records.
+  - Designed and implemented data validation, transformation, and reconciliation pipelines handling thousands of daily financial records.
+  - Tuned SQL Server performance via indexing strategies and query optimization, supporting production-scale data volumes.
+
+- **📱 Expense Manager Tracker** *(Flutter, Dart, SQLite, Firebase)*
+  - Built a cross-platform mobile expense tracking app (iOS & Android) with analytics dashboard, offline-first architecture, and cloud sync.
+  - Implemented Provider-based state management and modular architecture to ensure maintainability and testability.
+  - Integrated Firebase Authentication for secure login and Firestore for real-time cloud data synchronization.
+
+- **📱 E-Goal V2 Android Application** *(Java, Retrofit, Material UI)*
+  - Developed production Android client integrating REST APIs for real-time retail reporting and analytics.
+  - Implemented role-based access control, response caching, and offline sync to support low-connectivity environments.
+
+- **🔐 Secure Online Banking System** *(Java, Spring Boot)*
+  - Built secure banking backend with Spring Boot, implementing JWT-based authentication, input validation, and AES data encryption.
+
+- **🎟️ Token Management System (TMS)** *(PHP, MySQL, Android)*
+  - Designed and deployed a client-server hospital queue management system, reducing patient wait time through digital token allocation.
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Technical Skills
+
+- **Languages:** C#, Java, SQL, JavaScript, Dart
+- **Backend:** .NET Core, ASP.NET Core, Java Spring Boot, RESTful API Design
+- **Databases:** SQL Server, MySQL, SQLite · Query Optimization, Indexing, Stored Procedures
+- **Mobile:** Android (Java), Flutter/Dart, Firebase
+- **Concepts:** OOP, Asynchronous Programming, ETL Pipelines, SDLC, Data Structures & Algorithms
+- **Tools:** Git, Postman, Visual Studio, Android Studio, Eclipse
 
 <p align="left">
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
+
+---
+
+### 🎓 Education
+
+- **Master of Computer Applications (MCA)** — *Amrita Vishwa Vidyapeetham, Kochi* (2021–2023)
+- **B.Sc. Computer Science** — *Bharathiar University, Coimbatore* (2016–2019)
+
+---
+
+### 🏆 Achievements
+
+- **IEEE Research Publication** in Machine Learning
+- **Recognized by Kerala Police** for responsibly disclosing a live cybersecurity vulnerability
+- **Active competitive programmer** on HackerRank with consistent problem-solving record
 
 ---
 
