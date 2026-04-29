@@ -95,8 +95,8 @@ Backend Software Engineer and Development Team Lead with 3+ years of experience 
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheknair1289&show_icons=true&locale=en&layout=compact" alt="abhisheknair1289" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheknair0925-beep&show_icons=true&locale=en&layout=compact" alt="abhisheknair1289" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheknair1289&show_icons=true&locale=en" alt="abhisheknair1289" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheknair0925-beep&show_icons=true&locale=en" alt="abhisheknair0925-beep" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknair1289&" alt="abhisheknair1289" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknair0925-beep&" alt="abhisheknair0925-beep" /></p>
